@@ -3,7 +3,11 @@
 Each gesture (G1–G10) is performed by 14 participants (P1–P14) with 10 repetitions.
 
 ---
+## **Dataset**
+**Microsoft Kinect and Leap Motion Dataset**
+https://lttm.dei.unipd.it/downloads/gesture/
 
+---
 ## **Model Architecture**
 The model consists of two branches:
 1. **Image Branch:**
